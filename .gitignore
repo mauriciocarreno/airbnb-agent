@@ -1,0 +1,8 @@
+node_modules/
+.env
+processed_tasks.json
+tasks.json
+providers.json
+dist/
+temp-*.py
+
